@@ -2,6 +2,24 @@
 
 AirPods sound quality fixer and battery life enhancer for MacOs.
 
+- [Usage](#usage)
+    - [Setup keyboard shortcut using Automator](#setup-keyboard-shortcut-using-automator)
+- [Explanation](#explanation)
+- [References](#references)
+## Usage
+
+### Setup keyboard shortcut using Automator
+
+Setup a keyboard shortcut to change the sound input device to the built-in microphone using [Automator](https://support.apple.com/en-gb/guide/automator/welcome/mac):
+
+1. Open [Automator](https://support.apple.com/en-gb/guide/automator/welcome/mac).
+1. Make a **Quick Action**.
+1. Make sure it receives **no input** at all programs.
+1. Select **Run Apple Script** and paste the contents from `airpods.applescript`.
+1. Save the **Quick Action**.
+1. Open **System Preferences** > **Keyboard** > **Shortcuts** and select **Services** from the sidebar and find your under the **General** section.
+1. Add a shortcut by double clicking `(none)`.
+
 ## Explanation
 
 When the microphone on the AirPods is enabled, the Bluetooth protocol and the compression protocol is changed from A2DP to HSP, downgrading the audio format from 48 kHz to 16 kHz.
@@ -10,7 +28,7 @@ Using  [Audio MIDI Setup](https://support.apple.com/en-gb/guide/audio-midi-setup
 
 ![AirPods output at 48,0 kHz](screenshots/screenshot_48khz.png)
 
-When the AirPods itself are selected as the input device, they will only output at 16,0 kHZ:
+When the AirPods itself are selected as the input device, they will only output at 16,0 kHz:
 
 ![AirPods output at 16,0 kHz](screenshots/screenshot_16khz.png)
 
