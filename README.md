@@ -1,12 +1,12 @@
 <div align="center">
     <h1>
-        MacOs AirPods Fix
+        AirPods fix for macOS
     </h1>
 </div>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/roaldnefs/airpods?logo=github&logoColor=FFF&style=for-the-badge)
 
-AirPods sound quality fixer and battery life enhancer for MacOs.
+AirPods sound quality fixer and battery life enhancer for **macOS**.
 
 ## Contents
 - [Usage](#usage)
