@@ -4,7 +4,9 @@
     </h1>
 </div>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/roaldnefs/airpods?logo=github&logoColor=FFF&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/roaldnefs/airpods?style=for-the-badge&color=blue)
+![Platform macOS](https://img.shields.io/badge/platform-macos-blue?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/roaldnefs/airpods?color=blue&style=for-the-badge)
 
 AirPods sound quality fixer and battery life enhancer for **macOS**.
 
