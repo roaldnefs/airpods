@@ -1,18 +1,36 @@
-<div align="center">
-    <h1>
-        AirPods fix for macOS
-    </h1>
-</div>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/roaldnefs/airpods?style=for-the-badge&color=blue)
-![Platform macOS](https://img.shields.io/badge/platform-macos-blue?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/roaldnefs/airpods?color=blue&style=for-the-badge)
-
-AirPods sound quality fixer and battery life enhancer for **macOS**.
+<a href="https://github.com/roaldnefs/airpods" style="color: black;">
+    <h1 align="center">AirPods fix for macOS</h1>
+</a>
+<p align="center">
+    <a href="https://github.com/roaldnefs/airpods">
+        <img src="https://img.shields.io/github/stars/roaldnefs/airpods?style=for-the-badge&color=blue"
+            alt="GitHub stars">
+    </a>
+    <a href="https://github.com/roaldnefs/airpods">
+        <img src="https://img.shields.io/badge/platform-macos-blue?style=for-the-badge"
+            alt="Platform">
+    </a>
+    <a href="https://raw.githubusercontent.com/roaldnefs/airpods/main/LICENSE">
+        <img src="https://img.shields.io/github/license/roaldnefs/airpods?color=blue&style=for-the-badge"
+            alt="License">
+    </a>
+    </br>
+    AirPods sound quality fixer and battery life enhancer for <b>macOS</b>.
+    <br />
+    <a href="#usage"><strong>Usage »</strong></a>
+    <br />
+    <a href="#explanation">Explanation</a>
+    ·
+    <a href="https://github.com/roaldnefs/airpods/issues/new">Report Bug</a>
+    ·
+    <a href="https://github.com/roaldnefs/airpods/issues/new">Request Feature</a>
+</p>
 
 ## Contents
+- [Contents](#contents)
 - [Usage](#usage)
-    - [Setup keyboard shortcut using Automator](#setup-keyboard-shortcut-using-automator)
+  - [Setup keyboard shortcut using Automator](#setup-keyboard-shortcut-using-automator)
 - [Explanation](#explanation)
 - [References](#references)
 ## Usage
